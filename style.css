@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(226, 103, 164);
+    color: black;
+}
+td{
+    border: 2px solid black;
+}
+p{
+    background-color: aquamarine;
+}
+a{
+    background-color: rgb(89, 89, 171);
+}
+div{
+    background-color: brown;
+}
+span{
+    background-color: chartreuse;
+}
